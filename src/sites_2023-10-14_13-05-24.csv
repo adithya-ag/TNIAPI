@@ -1,0 +1,36 @@
+siteId,siteName,status,siteType,latitude,longitude,address1,address2,city,state,country,pin
+1,BSC_BANG_10001,Pending,BSC,11.5692,69.8484,Kudlu,,Bengaluru,KN,India,560068
+2,BSC_BANG_10002,Pending,BSC,11.5692,69.8484,Kudlu,,Bengaluru,KN,India,560068
+3,BSC_BANG_10003,Pending,BSC,10.8449,90.4584,Koramangala,,Bengaluru,KN,India,560023
+4,BSC_SMG_10004,Pending,BSC,13.5948,40.8484,Gandhi Nagar,,Shivamoga,KN,India,577201
+5,BSC_SMG_10005,Pending,BSC,14.2545,90.4584,Vidya Nagar,,Shivamoga,KN,India,577203
+6,BSC_MH_10006,Pending,BSC,22.5598,90.2415,Swargate,,Pune,MH,India,411042
+7,BSC_MH_10007,Pending,BSC,24.5957,88.2415,Iwale Nagar,,Ahmednagar,MH,India,414002
+8,BSC_BANG_100001,Pending,BSC,11.5692,69.8484,Kudl,,Blr,KN,India,560068
+9,BSC_BANG_100002,Pending,BSC,11.5692,69.8484,Kudl,,Blr,KN,India,560068
+10,BSC_BANG_100003,Pending,BSC,10.8449,90.4584,Koramangala,,Bengaluru,KN,India,560023
+11,BSC_SMG_100004,Pending,BSC,13.5948,40.8484,Gandhi Nagar,,Shivamoga,KN,India,577201
+12,BSC_SMG_100005,Pending,BSC,14.2545,90.4584,Vidya Nagar,,Shivamoga,KN,India,577203
+13,BSC_MH_100006,Pending,BSC,22.5598,90.2415,Swargate,,Pune,MH,India,411042
+14,BSC_MH_100007,Pending,BSC,24.5957,88.2415,Iwale Nagar,,Ahmednagar,MH,India,414002
+15,BSC_BANG_1001,Pending,BSC,11.5692,69.8484,KUDLU,,Ben,KN,India,560068
+16,BSC_BANG_1002,Pending,BSC,11.5692,69.8484,KUDLU,,Ben,KN,India,560068
+17,BSC_BANG_1003,Pending,BSC,10.8449,90.4584,Koramangala,,Bengaluru,KN,India,560023
+18,BSC_SMG_1004,Pending,BSC,13.5948,40.8484,Gandhi Nagar,,Shivamoga,KN,India,577201
+19,BSC_SMG_1005,Pending,BSC,14.2545,90.4584,Vidya Nagar,,Shivamoga,KN,India,577203
+20,BSC_MH_1006,Pending,BSC,22.5598,90.2415,Swargate,,Pune,MH,India,411042
+21,BSC_MH_1007,Pending,BSC,24.5957,88.2415,Iwale Nagar,,Ahmednagar,MH,India,414002
+22,BSC_BAN_10001,Pending,BSC,11.5692,69.8484,Kudluu,,Ban,KN,India,560068
+23,BSC_BAN_10002,Pending,BSC,11.5692,69.8484,Kudluu,,Ban,KN,India,560068
+24,BSC_BA_10003,Pending,BSC,10.8449,90.4584,Koramangala,,Bengaluru,KN,India,560023
+25,BSC_SM_10004,Pending,BSC,13.5948,40.8484,Gandhi Nagar,,Shivamoga,KN,India,577201
+26,BSC_SM_10005,Pending,BSC,14.2545,90.4584,Vidya Nagar,,Shivamoga,KN,India,577203
+27,BSC_M_10006,Pending,BSC,22.5598,90.2415,Swargate,,Pune,MH,India,411042
+28,BSC_M_10007,Pending,BSC,24.5957,88.2415,Iwale Nagar,,Ahmednagar,MH,India,414002
+29,BS_BANG_10001,Pending,BSC,11.5692,69.8484,Kd,,Bangalore,KN,India,560068
+30,BS_BANG_10002,Pending,BSC,11.5692,69.8484,Kd,,Bangalore,KN,India,560068
+31,BS_BANG_10003,Pending,BSC,10.8449,90.4584,Koramangala,,Bengaluru,KN,India,560023
+32,BS_SMG_10004,Pending,BSC,13.5948,40.8484,Gandhi Nagar,,Shivamoga,KN,India,577201
+33,BS_SMG_10005,Pending,BSC,14.2545,90.4584,Vidya Nagar,,Shivamoga,KN,India,577203
+34,BS_MH_10006,Pending,BSC,22.5598,90.2415,Swargate,,Pune,MH,India,411042
+35,BS_MH_10007,Pending,BSC,24.5957,88.2415,Iwale Nagar,,Ahmednagar,MH,India,414002
